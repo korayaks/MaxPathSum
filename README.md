@@ -1,4 +1,5 @@
 MaxPathSum
+
 *Solution
 -I convert input to 2D array. You can read input from file or constants directly inside the code. Check 2D matrix, if matrix include prime number set prime number values to '0' with ControlPrime() function. For each element, check both elements just below the number and below right to the number add the maximum of them to it. If both elements are prime number, change main element's value to '0' because that way is dead end. Then moving upwards by calculating the maximum possible paths.
 
