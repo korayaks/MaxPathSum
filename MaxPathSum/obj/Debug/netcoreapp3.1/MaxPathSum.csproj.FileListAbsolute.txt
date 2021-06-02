@@ -1,0 +1,13 @@
+C:\Users\burak\source\repos\MaxPathSum\MaxPathSum\bin\Debug\netcoreapp3.1\MaxPathSum.exe
+C:\Users\burak\source\repos\MaxPathSum\MaxPathSum\bin\Debug\netcoreapp3.1\MaxPathSum.deps.json
+C:\Users\burak\source\repos\MaxPathSum\MaxPathSum\bin\Debug\netcoreapp3.1\MaxPathSum.runtimeconfig.json
+C:\Users\burak\source\repos\MaxPathSum\MaxPathSum\bin\Debug\netcoreapp3.1\MaxPathSum.runtimeconfig.dev.json
+C:\Users\burak\source\repos\MaxPathSum\MaxPathSum\bin\Debug\netcoreapp3.1\MaxPathSum.dll
+C:\Users\burak\source\repos\MaxPathSum\MaxPathSum\bin\Debug\netcoreapp3.1\MaxPathSum.pdb
+C:\Users\burak\source\repos\MaxPathSum\MaxPathSum\obj\Debug\netcoreapp3.1\MaxPathSum.csprojAssemblyReference.cache
+C:\Users\burak\source\repos\MaxPathSum\MaxPathSum\obj\Debug\netcoreapp3.1\MaxPathSum.AssemblyInfoInputs.cache
+C:\Users\burak\source\repos\MaxPathSum\MaxPathSum\obj\Debug\netcoreapp3.1\MaxPathSum.AssemblyInfo.cs
+C:\Users\burak\source\repos\MaxPathSum\MaxPathSum\obj\Debug\netcoreapp3.1\MaxPathSum.csproj.CoreCompileInputs.cache
+C:\Users\burak\source\repos\MaxPathSum\MaxPathSum\obj\Debug\netcoreapp3.1\MaxPathSum.dll
+C:\Users\burak\source\repos\MaxPathSum\MaxPathSum\obj\Debug\netcoreapp3.1\MaxPathSum.pdb
+C:\Users\burak\source\repos\MaxPathSum\MaxPathSum\obj\Debug\netcoreapp3.1\MaxPathSum.genruntimeconfig.cache
